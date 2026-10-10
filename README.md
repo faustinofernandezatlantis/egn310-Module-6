@@ -9,7 +9,7 @@ A Streamlit application that manages a contact directory using a custom Binary S
 - **Delete & Insert**: Full support for node deletion (including the two-child case).
 
 ## Live Demo
-🔗 **Deployed Application:** [INSERT YOUR STREAMLIT COMMUNITY CLOUD LINK HERE]
+🔗 **Deployed Application:** [https://faustino-fernandez-eng310-bst.streamlit.app/]
 
 ## How to Run Locally
 1. Clone this repository.
